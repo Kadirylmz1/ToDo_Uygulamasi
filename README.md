@@ -3,4 +3,4 @@ Bir flutter toDo uygulaması ekle ve çıkar olmak üzere iki butondan oluşan p
 
 Giresun Üniversitesi Şebinkarahisar MYO
 
-KAdir Yılmaz.
+Kadir Yılmaz.
